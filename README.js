@@ -27,3 +27,7 @@
 // creteRoot() => connects React to a real DOM element and creats a React root 
 
 // root.render() => tells the React what UI/component to render 
+
+// a react interview question on counter 
+
+// 
